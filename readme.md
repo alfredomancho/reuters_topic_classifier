@@ -13,7 +13,7 @@ A lightweight text-classification project using the Reuters newswire dataset, wi
 - Evaluating calibration using Expected Calibration Error (ECE) and maximum deviation metrics
 
 ## Structure
-- **model.py**: Complete script for data prep, model creation, training, evaluation, and plotting.  Saves trained model to .keras file.
+- **model.py**: Complete script for data prep, model creation, training, evaluation, plotting and calibration.  Saves trained model to .keras file.
 - **loss_curves.png**: Sample plot showing training and validation loss over epochs.
 - **cal_curve.png**: Sample baseline reliability plot.
 - **cal_curve_tempCal.png**: Sample reliability plot after temperature scaling and quantile binning applied.
