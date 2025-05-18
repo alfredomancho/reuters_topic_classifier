@@ -1,4 +1,4 @@
-## IMDB Movie Sentiment Classifier
+## Reuters Topic Classifier
 
 ## Overview
 A lightweight text-classification project using the Reuters newswire dataset, with a focus on model calibration to produce reliable confidence estimates. It demonstrates: 
