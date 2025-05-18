@@ -1,0 +1,15 @@
+
+__pycache__/
+ipynb_checkpoints/
+backup/
+orig/
+PNGs/
+venv/
+*.pyc
+*.h5
+*.keras
+*.keras.gz
+*.ipynb
+*.gz
+*.swp
+about.txt
