@@ -30,7 +30,7 @@ A lightweight text-classification project using the Reuters newswire dataset, wi
 + Temperature scaling & quantile binning ECE: 0.0308, Max Deviation: 0.0919
 + Isotonic regression on test set ECE: 0.0201, Max Deviation: 0.0771
 
-- The above metrics, especially maximum deviation, varied by about +/- 4-5%.  Re-run with --seed and larger calibration set to stabilize metrics.
+- The above metrics, especially maximum deviation, varied by about +/- 4-5% every time the model was retrained.  Re-run with --seed and larger calibration set to stabilize metrics.
 
 ## How to Run
 1. **Install dependencies**  
